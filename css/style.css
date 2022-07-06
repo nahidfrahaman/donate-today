@@ -144,7 +144,15 @@ hr {
 #card-color2 {
   background-color: #ccebff;
 }
-
+.sponsar-img img {
+  width: 73%;
+  height: 88%;
+  margin-left: 1px;
+}
+.sponsar-img2 img{
+  width: 268px;
+  height: 218px;
+}
 .email-container {
   display: flex;
   width: 809px;
